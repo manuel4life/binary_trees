@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include "binary_trees.h"
 
 /**
  * binary_tree_delete - delete's everything in the binary tree
